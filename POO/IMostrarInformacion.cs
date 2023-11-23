@@ -1,0 +1,4 @@
+interface IMostrarInformacion
+{
+    void MostrarInformacion();
+}
